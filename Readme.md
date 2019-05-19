@@ -1,0 +1,3 @@
+Simple application to save the spotlight images from the windows 10 lock screen. Currently just a console application that finds the images and saves to the images directory of the app. Future enhancements planned are a full ui with image preview, selective image saving, and image renaming on save.
+
+To run the program, download and unzip the package, open the folder, and run the .exe. A console window shpuld briefly flash on the screen, and when it closes you should find your images inside the Images folder.
